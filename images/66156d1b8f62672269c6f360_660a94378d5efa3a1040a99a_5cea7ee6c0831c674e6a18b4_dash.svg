@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>logo / coin / flat / dash</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo-/-coin-/-flat-/-dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dash-3">
+            <circle id="Oval" fill="#2573C2" cx="16" cy="16" r="16"></circle>
+            <g id="Group" transform="translate(5.520000, 9.824000)" fill="#FFFFFF">
+                <path d="M20.9216,1.9648 C20.9001205,1.60625566 20.794907,1.25773603 20.6144,0.9472 C20.4544,0.6272 20.1696,0.3776 19.8368,0.2496 C19.4974137,0.080460182 19.121421,-0.00199436261 18.7424,0.0096 L4.5408,0.0096 L3.5232,3.0592 L16.3904,3.0592 L14.3584,9.2928 L1.4944,9.2928 L0.4768,12.3424 L14.7456,12.3424 C15.1707654,12.3300936 15.5911354,12.2490454 15.9904,12.1024 C16.3904,11.8752 16.848,11.6448 17.2352,11.3248 C17.6132206,11.0267791 17.9547791,10.6852206 18.2528,10.3072 C18.4991524,9.93681721 18.7091923,9.54352823 18.88,9.1328 L20.7648,3.2064 C20.9362674,2.81646919 20.9907423,2.3851171 20.9216,1.9648 L20.9216,1.9648 Z" id="Path"></path>
+                <polygon id="Path" points="8.5952 4.7616 1.024 4.7616 0.0064 7.5808 7.6544 7.5808"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

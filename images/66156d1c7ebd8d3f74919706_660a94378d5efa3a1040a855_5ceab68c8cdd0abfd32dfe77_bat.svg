@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>logo / token / flat / bat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo-/-token-/-flat-/-bat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 2.000000)" fill-rule="nonzero">
+            <polygon id="Path" fill="#662D91" points="31.7732283 27.6972973 15.8992126 18.590991 0 27.7981982"></polygon>
+            <polygon id="Path" fill="#9E1F63" points="15.8740157 0 15.7732283 18.590991 31.7732283 27.6972973"></polygon>
+            <polygon id="Path" fill="#FF5000" points="3.55271368e-15 27.7981982 15.823622 18.7423423 15.8740157 0"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="15.7732283 11.3009009 9.37322835 22.3243243 22.3496063 22.3243243"></polygon>
+        </g>
+    </g>
+</svg>

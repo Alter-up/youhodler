@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo/colored/32x32/mkr</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4FA89B" offset="0%"></stop>
+            <stop stop-color="#6ACEBB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="logo/colored/32x32/mkr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+        <path d="M8.1248,20.8 L8.1248,13.2693333 L13.8357333,17.5674667 L13.8357333,20.8 L15.2933333,20.8 L15.2933333,17.264 C15.2927905,16.9976339 15.1674338,16.7469206 14.9546667,16.5866667 L8.0288,11.3722667 C7.77047394,11.1803988 7.42618174,11.1501636 7.13836844,11.2940702 C6.85055515,11.4379769 6.66816803,11.7315518 6.66666667,12.0533333 L6.66666667,20.8 L8.1248,20.8 Z M23.9189333,20.8 L23.9189333,13.2693333 L18.208,17.5674667 L18.208,20.8 L16.7504,20.8 L16.7504,17.264 C16.7509428,16.9976339 16.8762995,16.7469206 17.0890667,16.5866667 L24.0149333,11.3744 C24.2729512,11.1827537 24.6167664,11.15234 24.9044202,11.2957164 C25.1920741,11.4390928 25.3747671,11.731936 25.3770667,12.0533333 L25.3770667,20.8 L23.9189333,20.8 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
